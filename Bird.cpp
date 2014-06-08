@@ -4,6 +4,7 @@
 
 Bird::Bird()
 {
+	/*just for test*/
 	height = 11;
 	speed = -1;
 }
